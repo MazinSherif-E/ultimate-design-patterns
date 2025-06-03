@@ -1,5 +1,5 @@
-from TextEditor import TextEditor
-from History import History
+from TextEditor_Originator import TextEditor
+from History_Caretaker import History
 
 textEditor = TextEditor()
 history = History()
